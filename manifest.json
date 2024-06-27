@@ -2,7 +2,7 @@
     "repos": [
         {
             "id": "withdraw",
-            "organisation": "lnbits",
+            "organisation": "kiddokodes",
             "repository": "withdraw"
         }
     ]
